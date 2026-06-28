@@ -2,7 +2,7 @@
 
 
 def calculate_tip(amount, tip_rate):
-    return amount * tip_ratae / 100
+    return amount * tip_rate / 100
 
 
 def main():
