@@ -14,7 +14,7 @@ while True:
 
     # 입력값 검사
     if len(user_input) != 3:
-        print("3자리 숫자를 입력하세요.")
+        print("5자리 숫자를 입력하세요.")
         continue
 
     if not user_input.isdigit():
